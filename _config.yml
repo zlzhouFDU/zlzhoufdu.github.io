@@ -21,7 +21,7 @@ repository               : "zlzhouFDU"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cat-profile.jpg"
   name             : "Zhiling Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Junior Student, SDS, Fudan University"
