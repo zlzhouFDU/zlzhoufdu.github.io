@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My CV can be found [here](https://drive.google.com/file/d/1azI6AYL4hIrmsLCsL6OIjRDN_5n_RAzy/view?usp=sharing).
+My CV can be found [here]([https://drive.google.com/file/d/1o7bfq2Smetb_xQhDFNZH1qDKt7aXPExr/view?usp=sharing]).
 
 Education
 ======
