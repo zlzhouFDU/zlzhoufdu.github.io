@@ -1,15 +1,17 @@
 ---
 layout: archive
-title: "Research"
-permalink: /Research/
+title: "Publications"
+permalink: /Publications/
 author_profile: true
 ---
 
 1. Visual Semantic Learning via Early Stopping in Inverse Scale Space
 
-   A submission to ICLR24 can be found [here]([https://openreview.net/pdf?id=wAsjsSe0U6]) (currently under review in NeurIPS24).
+   Zhiling Zhou, Zirui Liu, Chengming Xu, Yanwei Fu, Xinwei Sun
 
-3. [Incremental Gauss--Newton Methods with Superlinear Convergence Rates]([http://arxiv.org/abs/2407.03195])
+   A submission to ICLR24 can be found [here]([https://openreview.net/pdf?id=wAsjsSe0U6]), and this work is currently under review in NeurIPS24.
+
+2. [Incremental Gauss--Newton Methods with Superlinear Convergence Rates]([http://arxiv.org/abs/2407.03195])
    
    Zhiling Zhou, Zhuanghua Liu, Chengchang Liu, Luo Luo
    
