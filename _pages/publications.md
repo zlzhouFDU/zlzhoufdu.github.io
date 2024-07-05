@@ -9,8 +9,8 @@ author_profile: true
 
    A submission to ICLR24 can be found [here]([https://openreview.net/pdf?id=wAsjsSe0U6]) (currently under review in NeurIPS24).
 
-3. Incremental Gauss--Newton Methods with Superlinear Convergence Rates
+3. [Incremental Gauss--Newton Methods with Superlinear Convergence Rates]([http://arxiv.org/abs/2407.03195])
    
    Zhiling Zhou, Zhuanghua Liu, Chengchang Liu, Luo Luo
    
-   ([http://arxiv.org/abs/2407.03195])
+   
